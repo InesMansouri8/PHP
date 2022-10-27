@@ -19,15 +19,15 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
+          <!--Catégorie NavBar Accueil-->
           <li class="nav-item">
             <a class="nav-link active fs-4" aria-current="page" href="index.html" style="color: white;">Accueil</a>
           </li>
+          <!--Catégorie NavBar CV-->
           <li class="nav-item">
             <a class="nav-link fs-4" href="cv.html" style="color:white;">Cv</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link fs-4" href="#" style="color:white;">Portfolio</a>
-          </li>
+          <!--Catégorie NavBar me contacter-->
           <li class="nav-item">
             <a class="nav-link active fs-4" aria-current="page" href="contacter.php" style="color: white;">Me contacter</a>
           </li>

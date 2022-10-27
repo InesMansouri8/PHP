@@ -12,7 +12,7 @@
 
 body{
     font-family: 'Exo', sans-serif;
-    background-image: linear-gradient(to bottom, hsl(237, 53%, 55%), rgba(61, 61, 68, 0.5)); /*Dégradé de couleur*/
+    background-image: linear-gradient(to bottom, #8990CB, #826392); /*Dégradé de couleur*/
 }
 
 #title-h1{
@@ -230,6 +230,7 @@ body{
     text-decoration: underline;
   }
 
+/*titre h3 en italique*/
 .col-8 h3{
     font-style: italic;
 }
